@@ -1,0 +1,16 @@
+{
+  "name": "qa-week2-cypress-exercises",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Week 2 – Cypress Automation Testing Essentials (QA Course) exercises",
+  "scripts": {
+    "open": "cypress open",
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^14.0.0",
+    "mochawesome": "^7.1.4",
+    "mochawesome-merge": "^5.0.0",
+    "mochawesome-report-generator": "^6.3.2"
+  }
+}
